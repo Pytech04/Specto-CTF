@@ -1,0 +1,1 @@
+Only Use Script if You Have Tried the Challenge yourself First.
