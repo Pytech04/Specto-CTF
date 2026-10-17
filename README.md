@@ -1,31 +1,32 @@
-#  Intercepted Signal Found!
+# Specto-CTF
 
-An unknown hacker has been secretly transmitting encoded messages using radio frequencies.  
-Our intelligence team has intercepted one such transmission in the form of a `.wav` file — but the message is **encrypted**!
+> Specto Capture The Flag challenge repository.
 
-Your mission is to:
+[![GitHub](https://img.shields.io/badge/GitHub-Pytech04/Specto--CTF-blue)](https://github.com/Pytech04/Specto-CTF)
+[![Language](https://img.shields.io/badge/Language-Python-green)](https://github.com/Pytech04/Specto-CTF)
 
-1. Analyze the signal 
-2. Extract the raw binary data  
-3. Transform and decrypt it  
-4. Recover the hidden flag 
+## 📋 Overview
 
----
+Python-based CTF challenge(s) from Specto CTF. Contains challenge files, scripts, and supporting assets for web/app security practice.
 
-### Can you decode the hacker’s secret frequency?
+## 🗂 Contents
 
->  **Hint**:  
-> Binary → ASCII → Base64-decode **+ XOR** → flag
+- Challenge source files
+- Helper scripts
+- Solution notes (if any)
 
----
+## 🚀 Getting Started
 
-### 🗂 Files Provided
+```bash
+git clone https://github.com/Pytech04/Specto-CTF.git
+cd Specto-CTF
+python -m pip install -r requirements.txt  # if present
+```
 
-- `challenge_fsk.wav` — the intercepted signal
+## ⚠️ Disclaimer
 
----
+For educational and authorized CTF practice only. Do not use against unauthorized systems.
 
-###  Goal
+## 🔗 Author
 
-Extract and submit the flag in the following format:
-
+[Pytech04](https://github.com/Pytech04)
