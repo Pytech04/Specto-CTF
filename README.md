@@ -1,32 +1,39 @@
 # Specto-CTF
 
-> Specto Capture The Flag challenge repository.
-
 [![GitHub](https://img.shields.io/badge/GitHub-Pytech04/Specto--CTF-blue)](https://github.com/Pytech04/Specto-CTF)
-[![Language](https://img.shields.io/badge/Language-Python-green)](https://github.com/Pytech04/Specto-CTF)
+[![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python)](https://github.com/Pytech04/Specto-CTF)
+[![CTF](https://img.shields.io/badge/Category-Web%20CTF-red)](https://github.com/Pytech04/Specto-CTF)
 
-## 📋 Overview
+## Overview
 
-Python-based CTF challenge(s) from Specto CTF. Contains challenge files, scripts, and supporting assets for web/app security practice.
+Specto-CTF contains web-based CTF challenge(s) with Python backend components. Designed for hands-on practice with common web security vulnerabilities.
 
-## 🗂 Contents
+## Structure
 
-- Challenge source files
-- Helper scripts
-- Solution notes (if any)
+- `README.md` - Challenge documentation
+- Challenge source files and assets
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Pytech04/Specto-CTF.git
 cd Specto-CTF
-python -m pip install -r requirements.txt  # if present
+pip install -r requirements.txt
+python app.py
 ```
 
-## ⚠️ Disclaimer
+## Topics
+
+- Web application security
+- CTF challenges
+- Python/Flask based challenges
+
+## Disclaimer
 
 For educational and authorized CTF practice only. Do not use against unauthorized systems.
 
-## 🔗 Author
+## Author
 
-[Pytech04](https://github.com/Pytech04)
+- [Pytech04](https://github.com/Pytech04)
+
+[![GitHub followers](https://img.shields.io/github/followers/Pytech04?style=social)](https://github.com/Pytech04)
